@@ -1,0 +1,24 @@
+{
+    "name": "zsyrhill-homework",
+    "version": "1.0.0",
+    "description": "This is the repository for Zsyrhill's homework.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Zsyrhill Soria",
+    "license": "ISC",
+    "dependencies": {
+        "bootstrap": "^5.2.3",
+        "react": "^18.2.0",
+        "react-bootstrap": "^2.7.2",
+        "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+        "file-loader": "^6.2.0",
+        "html-webpack-plugin": "^5.5.0",
+        "ts-loader": "^9.4.2",
+        "typescript": "^5.0.2",
+        "webpack": "^5.76.2"
+    }
+}
